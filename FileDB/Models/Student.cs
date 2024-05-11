@@ -1,7 +1,7 @@
 ﻿
 namespace FileDB.Models
 {
-    internal class Student
+    class Student
     {
         public int Id { get; set; }
         public string Name { get; set; }
